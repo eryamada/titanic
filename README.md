@@ -61,7 +61,7 @@ train[, Sex := as.factor(Sex)]
 Now, let's start with some assumptions regarding the situation of the titanic and see if the data.  In the event of a disaster, doesn't society tends to prioritize saving women and children. Would wealthier passengers be more likely to survive?  Let's analyze these assumptions.
 
 ## Variable Relationship with Survival Rate {.tabset .tabset-fade}
-Click through the tabs to how different variables are correlated with survival rate.
+Click through the tabs to see how different variables are correlated with survival rate.
 
 ### Age
 ```{r, message = FALSE}
